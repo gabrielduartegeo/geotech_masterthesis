@@ -1,3 +1,6 @@
+#This script was used to analyze different point cloud datasets for my master thesis in the Geospatial Technologies Master Program.
+#Script Developer: Dr. Jan Lehmann (Universität Münster). Edition and changes: Gabriel dos Santos Duarte
+
 library(lidR)
 library(sf)
 library(future)
